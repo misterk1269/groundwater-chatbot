@@ -1,0 +1,390 @@
+In 2019, the state of Andaman and Nicobar Islands, India received 1136.46 mm rainfall. Total groundwater recharge was 31551.31 ham, groundwater extraction was 739.49 ham, and the stage of groundwater extraction was 2.34%. The state was categorized as Safe.
+
+In 2020, the state of Andaman and Nicobar Islands, India received 1136.46 mm rainfall. Total groundwater recharge was 31866.82 ham, groundwater extraction was 746.88 ham, and the stage of groundwater extraction was 2.34%. The state was categorized as Safe.
+
+In 2021, the state of Andaman and Nicobar Islands, India received 1136.46 mm rainfall. Total groundwater recharge was 32182.34 ham, groundwater extraction was 754.28 ham, and the stage of groundwater extraction was 2.34%. The state was categorized as Safe.
+
+In 2022, the state of Andaman and Nicobar Islands, India received 1136.46 mm rainfall. Total groundwater recharge was 32497.85 ham, groundwater extraction was 761.67 ham, and the stage of groundwater extraction was 2.34%. The state was categorized as Safe.
+
+In 2023, the state of Andaman and Nicobar Islands, India received 1136.46 mm rainfall. Total groundwater recharge was 32813.36 ham, groundwater extraction was 769.07 ham, and the stage of groundwater extraction was 2.34%. The state was categorized as Safe.
+
+In 2019, the state of Andhra Pradesh, India received 1136.46 mm rainfall. Total groundwater recharge was 2415110.46 ham, groundwater extraction was 1763034.08 ham, and the stage of groundwater extraction was 73.0%. The state was categorized as Critical.
+
+In 2020, the state of Andhra Pradesh, India received 1327.09 mm rainfall. Total groundwater recharge was 2439261.56 ham, groundwater extraction was 1763034.08 ham, and the stage of groundwater extraction was 72.28%. The state was categorized as Critical.
+
+In 2021, the state of Andhra Pradesh, India received 1427.09 mm rainfall. Total groundwater recharge was 2463412.67 ham, groundwater extraction was 1763034.08 ham, and the stage of groundwater extraction was 71.57%. The state was categorized as Critical.
+
+In 2022, the state of Andhra Pradesh, India received 1327.09 mm rainfall. Total groundwater recharge was 2487563.77 ham, groundwater extraction was 1763034.08 ham, and the stage of groundwater extraction was 70.87%. The state was categorized as Critical.
+
+In 2023, the state of Andhra Pradesh, India received 1547.09 mm rainfall. Total groundwater recharge was 2511714.88 ham, groundwater extraction was 1763034.08 ham, and the stage of groundwater extraction was 70.19%. The state was categorized as Critical.
+
+In 2019, the state of Arunachal Pradesh, India received 1327.09 mm rainfall. Total groundwater recharge was 319107.89 ham, groundwater extraction was 1057.93 ham, and the stage of groundwater extraction was 0.33%. The state was categorized as Safe.
+
+In 2020, the state of Arunachal Pradesh, India received 1327.09 mm rainfall. Total groundwater recharge was 322298.97 ham, groundwater extraction was 1068.51 ham, and the stage of groundwater extraction was 0.33%. The state was categorized as Safe.
+
+In 2021, the state of Arunachal Pradesh, India received 1237.09 mm rainfall. Total groundwater recharge was 325490.05 ham, groundwater extraction was 1079.09 ham, and the stage of groundwater extraction was 0.33%. The state was categorized as Safe.
+
+In 2022, the state of Arunachal Pradesh, India received 339.21 mm rainfall. Total groundwater recharge was 328681.13 ham, groundwater extraction was 1089.67 ham, and the stage of groundwater extraction was 0.33%. The state was categorized as Safe.
+
+In 2023, the state of Arunachal Pradesh, India received 1339.21 mm rainfall. Total groundwater recharge was 331872.21 ham, groundwater extraction was 1100.25 ham, and the stage of groundwater extraction was 0.33%. The state was categorized as Safe.
+
+In 2019, the state of Assam, India received 1439.21 mm rainfall. Total groundwater recharge was 2705308.0 ham, groundwater extraction was 257563.41 ham, and the stage of groundwater extraction was 9.52%. The state was categorized as Safe.
+
+In 2020, the state of Assam, India received 339.21 mm rainfall. Total groundwater recharge was 2732361.08 ham, groundwater extraction was 260139.04 ham, and the stage of groundwater extraction was 9.52%. The state was categorized as Safe.
+
+In 2021, the state of Assam, India received 1239.21 mm rainfall. Total groundwater recharge was 2759414.16 ham, groundwater extraction was 262714.68 ham, and the stage of groundwater extraction was 9.52%. The state was categorized as Safe.
+
+In 2022, the state of Assam, India received 1239.21 mm rainfall. Total groundwater recharge was 2786467.24 ham, groundwater extraction was 265290.31 ham, and the stage of groundwater extraction was 9.52%. The state was categorized as Safe.
+
+In 2023, the state of Assam, India received 1439.21 mm rainfall. Total groundwater recharge was 2813520.32 ham, groundwater extraction was 267865.95 ham, and the stage of groundwater extraction was 9.52%. The state was categorized as Safe.
+
+In 2019, the state of BIHAR, India received 1439.21 mm rainfall. Total groundwater recharge was 3247740.53 ham, groundwater extraction was 1323180.95 ham, and the stage of groundwater extraction was 40.74%. The state was categorized as Safe.
+
+In 2020, the state of BIHAR, India received 1439.21 mm rainfall. Total groundwater recharge was 3280880.74 ham, groundwater extraction was 1336682.79 ham, and the stage of groundwater extraction was 40.74%. The state was categorized as Safe.
+
+In 2021, the state of BIHAR, India received 1439.21 mm rainfall. Total groundwater recharge was 3314020.95 ham, groundwater extraction was 1350184.64 ham, and the stage of groundwater extraction was 40.74%. The state was categorized as Safe.
+
+In 2022, the state of BIHAR, India received 1439.21 mm rainfall. Total groundwater recharge was 3347161.16 ham, groundwater extraction was 1363686.49 ham, and the stage of groundwater extraction was 40.74%. The state was categorized as Safe.
+
+In 2023, the state of BIHAR, India received 1439.21 mm rainfall. Total groundwater recharge was 3380301.37 ham, groundwater extraction was 1377188.33 ham, and the stage of groundwater extraction was 40.74%. The state was categorized as Safe.
+
+In 2019, the state of Bihar, India received 1422.66 mm rainfall. Total groundwater recharge was 2805424.92 ham, groundwater extraction was 1301871.73 ham, and the stage of groundwater extraction was 46.41%. The state was categorized as Safe.
+
+In 2020, the state of Bihar, India received 422.66 mm rainfall. Total groundwater recharge was 2833479.17 ham, groundwater extraction was 1314890.45 ham, and the stage of groundwater extraction was 46.41%. The state was categorized as Safe.
+
+In 2021, the state of Bihar, India received 422.66 mm rainfall. Total groundwater recharge was 2861533.42 ham, groundwater extraction was 1327909.16 ham, and the stage of groundwater extraction was 46.41%. The state was categorized as Safe.
+
+In 2022, the state of Bihar, India received 422.66 mm rainfall. Total groundwater recharge was 2889587.67 ham, groundwater extraction was 1340927.88 ham, and the stage of groundwater extraction was 46.41%. The state was categorized as Safe.
+
+In 2023, the state of Bihar, India received 422.66 mm rainfall. Total groundwater recharge was 2917641.92 ham, groundwater extraction was 1353946.6 ham, and the stage of groundwater extraction was 46.41%. The state was categorized as Safe.
+
+In 2019, the state of CHANDIGARH, India received 195.07 mm rainfall. Total groundwater recharge was 5100.87 ham, groundwater extraction was 3717.88 ham, and the stage of groundwater extraction was 72.89%. The state was categorized as Semi Critical.
+
+In 2020, the state of CHANDIGARH, India received 1195.07 mm rainfall. Total groundwater recharge was 5152.92 ham, groundwater extraction was 3755.82 ham, and the stage of groundwater extraction was 72.89%. The state was categorized as Semi Critical.
+
+In 2021, the state of CHANDIGARH, India received 1296.78 mm rainfall. Total groundwater recharge was 5204.97 ham, groundwater extraction was 3793.76 ham, and the stage of groundwater extraction was 72.89%. The state was categorized as Semi Critical.
+
+In 2022, the state of CHANDIGARH, India received 195.07 mm rainfall. Total groundwater recharge was 5257.02 ham, groundwater extraction was 3831.7 ham, and the stage of groundwater extraction was 72.89%. The state was categorized as Semi Critical.
+
+In 2023, the state of CHANDIGARH, India received 1234.09 mm rainfall. Total groundwater recharge was 5309.07 ham, groundwater extraction was 3869.64 ham, and the stage of groundwater extraction was 72.89%. The state was categorized as Semi Critical.
+
+In 2019, the state of Chandigarh, India received 1234.09 mm rainfall. Total groundwater recharge was 6375.6 ham, groundwater extraction was 4624.7 ham, and the stage of groundwater extraction was 72.54%. The state was categorized as Semi Critical.
+
+In 2020, the state of Chandigarh, India received 1234.09 mm rainfall. Total groundwater recharge was 6439.36 ham, groundwater extraction was 4670.95 ham, and the stage of groundwater extraction was 72.54%. The state was categorized as Semi Critical.
+
+In 2021, the state of Chandigarh, India received 1234.09 mm rainfall. Total groundwater recharge was 6503.11 ham, groundwater extraction was 4717.19 ham, and the stage of groundwater extraction was 72.54%. The state was categorized as Semi Critical.
+
+In 2022, the state of Chandigarh, India received 1234.09 mm rainfall. Total groundwater recharge was 6566.87 ham, groundwater extraction was 4763.44 ham, and the stage of groundwater extraction was 72.54%. The state was categorized as Semi Critical.
+
+In 2023, the state of Chandigarh, India received 1234.09 mm rainfall. Total groundwater recharge was 6630.62 ham, groundwater extraction was 4809.69 ham, and the stage of groundwater extraction was 72.54%. The state was categorized as Semi Critical.
+
+In 2019, the state of Chhattisgarh, India received 1234.09 mm rainfall. Total groundwater recharge was 1265482.54 ham, groundwater extraction was 535099.96 ham, and the stage of groundwater extraction was 42.28%. The state was categorized as Safe.
+
+In 2020, the state of Chhattisgarh, India received 1234.09 mm rainfall. Total groundwater recharge was 1278137.37 ham, groundwater extraction was 540450.96 ham, and the stage of groundwater extraction was 42.28%. The state was categorized as Safe.
+
+In 2021, the state of Chhattisgarh, India received 343.99 mm rainfall. Total groundwater recharge was 1290792.19 ham, groundwater extraction was 545801.96 ham, and the stage of groundwater extraction was 42.28%. The state was categorized as Safe.
+
+In 2022, the state of Chhattisgarh, India received 1322.09 mm rainfall. Total groundwater recharge was 1303447.02 ham, groundwater extraction was 551152.96 ham, and the stage of groundwater extraction was 42.28%. The state was categorized as Safe.
+
+In 2023, the state of Chhattisgarh, India received 343.99 mm rainfall. Total groundwater recharge was 1316101.84 ham, groundwater extraction was 556503.96 ham, and the stage of groundwater extraction was 42.28%. The state was categorized as Safe.
+
+In 2019, the state of Dadra and Nagar Haveli, India received 1343.99 mm rainfall. Total groundwater recharge was 7246.26 ham, groundwater extraction was 3105.8 ham, and the stage of groundwater extraction was 42.86%. The state was categorized as Safe.
+
+In 2020, the state of Dadra and Nagar Haveli, India received 1343.99 mm rainfall. Total groundwater recharge was 7318.72 ham, groundwater extraction was 3136.86 ham, and the stage of groundwater extraction was 42.86%. The state was categorized as Safe.
+
+In 2021, the state of Dadra and Nagar Haveli, India received 1343.99 mm rainfall. Total groundwater recharge was 7391.19 ham, groundwater extraction was 3167.92 ham, and the stage of groundwater extraction was 42.86%. The state was categorized as Safe.
+
+In 2022, the state of Dadra and Nagar Haveli, India received 1343.99 mm rainfall. Total groundwater recharge was 7463.65 ham, groundwater extraction was 3198.97 ham, and the stage of groundwater extraction was 42.86%. The state was categorized as Safe.
+
+In 2023, the state of Dadra and Nagar Haveli, India received 530.34 mm rainfall. Total groundwater recharge was 7536.11 ham, groundwater extraction was 3230.03 ham, and the stage of groundwater extraction was 42.86%. The state was categorized as Safe.
+
+In 2019, the state of Daman and Diu, India received 530.34 mm rainfall. Total groundwater recharge was 2900.68 ham, groundwater extraction was 3124.3 ham, and the stage of groundwater extraction was 107.71%. The state was categorized as Over Exploited.
+
+In 2020, the state of Daman and Diu, India received 530.34 mm rainfall. Total groundwater recharge was 2929.69 ham, groundwater extraction was 3155.54 ham, and the stage of groundwater extraction was 107.71%. The state was categorized as Over Exploited.
+
+In 2021, the state of Daman and Diu, India received 530.34 mm rainfall. Total groundwater recharge was 2958.69 ham, groundwater extraction was 3186.79 ham, and the stage of groundwater extraction was 107.71%. The state was categorized as Over Exploited.
+
+In 2022, the state of Daman and Diu, India received 530.34 mm rainfall. Total groundwater recharge was 2987.7 ham, groundwater extraction was 3218.03 ham, and the stage of groundwater extraction was 107.71%. The state was categorized as Over Exploited.
+
+In 2023, the state of Daman and Diu, India received 502.02 mm rainfall. Total groundwater recharge was 3016.71 ham, groundwater extraction was 3249.27 ham, and the stage of groundwater extraction was 107.71%. The state was categorized as Over Exploited.
+
+In 2019, the state of Delhi, India received 502.02 mm rainfall. Total groundwater recharge was 31811.76 ham, groundwater extraction was 29032.77 ham, and the stage of groundwater extraction was 91.26%. The state was categorized as Critical.
+
+In 2020, the state of Delhi, India received 502.02 mm rainfall. Total groundwater recharge was 32129.88 ham, groundwater extraction was 29323.1 ham, and the stage of groundwater extraction was 91.26%. The state was categorized as Critical.
+
+In 2021, the state of Delhi, India received 502.02 mm rainfall. Total groundwater recharge was 32448.0 ham, groundwater extraction was 29613.43 ham, and the stage of groundwater extraction was 91.26%. The state was categorized as Critical.
+
+In 2022, the state of Delhi, India received 502.02 mm rainfall. Total groundwater recharge was 32766.11 ham, groundwater extraction was 29903.75 ham, and the stage of groundwater extraction was 91.26%. The state was categorized as Critical.
+
+In 2023, the state of Delhi, India received 502.02 mm rainfall. Total groundwater recharge was 33084.23 ham, groundwater extraction was 30194.08 ham, and the stage of groundwater extraction was 91.26%. The state was categorized as Critical.
+
+In 2019, the state of Goa, India received 1234.09 mm rainfall. Total groundwater recharge was 40212.07 ham, groundwater extraction was 7554.75 ham, and the stage of groundwater extraction was 18.79%. The state was categorized as Safe.
+
+In 2020, the state of Goa, India received 484.3 mm rainfall. Total groundwater recharge was 40614.19 ham, groundwater extraction was 7630.3 ham, and the stage of groundwater extraction was 18.79%. The state was categorized as Safe.
+
+In 2021, the state of Goa, India received 1233.0 mm rainfall. Total groundwater recharge was 41016.31 ham, groundwater extraction was 7705.85 ham, and the stage of groundwater extraction was 18.79%. The state was categorized as Safe.
+
+In 2022, the state of Goa, India received 1233.0 mm rainfall. Total groundwater recharge was 41418.43 ham, groundwater extraction was 7781.39 ham, and the stage of groundwater extraction was 18.79%. The state was categorized as Safe.
+
+In 2023, the state of Goa, India received 1233.0 mm rainfall. Total groundwater recharge was 41820.55 ham, groundwater extraction was 7856.94 ham, and the stage of groundwater extraction was 18.79%. The state was categorized as Safe.
+
+In 2019, the state of Gujarat, India received 1233.0 mm rainfall. Total groundwater recharge was 2680884.11 ham, groundwater extraction was 1329629.65 ham, and the stage of groundwater extraction was 49.6%. The state was categorized as Safe.
+
+In 2020, the state of Gujarat, India received 400.39 mm rainfall. Total groundwater recharge was 2707692.95 ham, groundwater extraction was 1342925.95 ham, and the stage of groundwater extraction was 49.6%. The state was categorized as Safe.
+
+In 2021, the state of Gujarat, India received 400.39 mm rainfall. Total groundwater recharge was 2734501.79 ham, groundwater extraction was 1356222.24 ham, and the stage of groundwater extraction was 49.6%. The state was categorized as Safe.
+
+In 2022, the state of Gujarat, India received 400.39 mm rainfall. Total groundwater recharge was 2761310.63 ham, groundwater extraction was 1369518.54 ham, and the stage of groundwater extraction was 49.6%. The state was categorized as Safe.
+
+In 2023, the state of Gujarat, India received 400.39 mm rainfall. Total groundwater recharge was 2788119.47 ham, groundwater extraction was 1382814.84 ham, and the stage of groundwater extraction was 49.6%. The state was categorized as Safe.
+
+In 2019, the state of Haryana, India received 400.39 mm rainfall. Total groundwater recharge was 952700.99 ham, groundwater extraction was 1161189.18 ham, and the stage of groundwater extraction was 121.88%. The state was categorized as Over Exploited.
+
+In 2020, the state of Haryana, India received 400.39 mm rainfall. Total groundwater recharge was 962228.0 ham, groundwater extraction was 1172801.07 ham, and the stage of groundwater extraction was 121.88%. The state was categorized as Over Exploited.
+
+In 2021, the state of Haryana, India received 901.69 mm rainfall. Total groundwater recharge was 971755.01 ham, groundwater extraction was 1184412.96 ham, and the stage of groundwater extraction was 121.88%. The state was categorized as Over Exploited.
+
+In 2022, the state of Haryana, India received 901.69 mm rainfall. Total groundwater recharge was 981282.02 ham, groundwater extraction was 1196024.86 ham, and the stage of groundwater extraction was 121.88%. The state was categorized as Over Exploited.
+
+In 2023, the state of Haryana, India received 901.69 mm rainfall. Total groundwater recharge was 990809.03 ham, groundwater extraction was 1207636.75 ham, and the stage of groundwater extraction was 121.88%. The state was categorized as Over Exploited.
+
+In 2019, the state of Himachal Pradesh, India received 901.69 mm rainfall. Total groundwater recharge was 106732.49 ham, groundwater extraction was 35709.33 ham, and the stage of groundwater extraction was 33.46%. The state was categorized as Safe.
+
+In 2020, the state of Himachal Pradesh, India received 901.69 mm rainfall. Total groundwater recharge was 107799.81 ham, groundwater extraction was 36066.42 ham, and the stage of groundwater extraction was 33.46%. The state was categorized as Safe.
+
+In 2021, the state of Himachal Pradesh, India received 901.69 mm rainfall. Total groundwater recharge was 108867.14 ham, groundwater extraction was 36423.52 ham, and the stage of groundwater extraction was 33.46%. The state was categorized as Safe.
+
+In 2022, the state of Himachal Pradesh, India received 924.17 mm rainfall. Total groundwater recharge was 109934.46 ham, groundwater extraction was 36780.61 ham, and the stage of groundwater extraction was 33.46%. The state was categorized as Safe.
+
+In 2023, the state of Himachal Pradesh, India received 924.17 mm rainfall. Total groundwater recharge was 111001.79 ham, groundwater extraction was 37137.7 ham, and the stage of groundwater extraction was 33.46%. The state was categorized as Safe.
+
+In 2019, the state of Jammu and Kashmir, India received 924.17 mm rainfall. Total groundwater recharge was 467632.0 ham, groundwater extraction was 88656.28 ham, and the stage of groundwater extraction was 18.96%. The state was categorized as Safe.
+
+In 2020, the state of Jammu and Kashmir, India received 924.17 mm rainfall. Total groundwater recharge was 472308.32 ham, groundwater extraction was 89542.84 ham, and the stage of groundwater extraction was 18.96%. The state was categorized as Safe.
+
+In 2021, the state of Jammu and Kashmir, India received 924.17 mm rainfall. Total groundwater recharge was 476984.64 ham, groundwater extraction was 90429.41 ham, and the stage of groundwater extraction was 18.96%. The state was categorized as Safe.
+
+In 2022, the state of Jammu and Kashmir, India received 924.17 mm rainfall. Total groundwater recharge was 481660.96 ham, groundwater extraction was 91315.97 ham, and the stage of groundwater extraction was 18.96%. The state was categorized as Safe.
+
+In 2023, the state of Jammu and Kashmir, India received 175.24 mm rainfall. Total groundwater recharge was 486337.28 ham, groundwater extraction was 92202.53 ham, and the stage of groundwater extraction was 18.96%. The state was categorized as Safe.
+
+In 2019, the state of Jharkhand, India received 175.24 mm rainfall. Total groundwater recharge was 615265.49 ham, groundwater extraction was 164444.89 ham, and the stage of groundwater extraction was 26.73%. The state was categorized as Safe.
+
+In 2020, the state of Jharkhand, India received 175.24 mm rainfall. Total groundwater recharge was 621418.14 ham, groundwater extraction was 166089.34 ham, and the stage of groundwater extraction was 26.73%. The state was categorized as Safe.
+
+In 2021, the state of Jharkhand, India received 175.24 mm rainfall. Total groundwater recharge was 627570.8 ham, groundwater extraction was 167733.79 ham, and the stage of groundwater extraction was 26.73%. The state was categorized as Safe.
+
+In 2022, the state of Jharkhand, India received 175.24 mm rainfall. Total groundwater recharge was 633723.45 ham, groundwater extraction was 169378.24 ham, and the stage of groundwater extraction was 26.73%. The state was categorized as Safe.
+
+In 2023, the state of Jharkhand, India received 175.24 mm rainfall. Total groundwater recharge was 639876.11 ham, groundwater extraction was 171022.69 ham, and the stage of groundwater extraction was 26.73%. The state was categorized as Safe.
+
+In 2019, the state of Karnataka, India received 319.77 mm rainfall. Total groundwater recharge was 1815604.44 ham, groundwater extraction was 1063198.25 ham, and the stage of groundwater extraction was 58.56%. The state was categorized as Safe.
+
+In 2020, the state of Karnataka, India received 319.77 mm rainfall. Total groundwater recharge was 1833760.48 ham, groundwater extraction was 1073830.23 ham, and the stage of groundwater extraction was 58.56%. The state was categorized as Safe.
+
+In 2021, the state of Karnataka, India received 319.77 mm rainfall. Total groundwater recharge was 1851916.53 ham, groundwater extraction was 1084462.22 ham, and the stage of groundwater extraction was 58.56%. The state was categorized as Safe.
+
+In 2022, the state of Karnataka, India received 319.77 mm rainfall. Total groundwater recharge was 1870072.57 ham, groundwater extraction was 1095094.2 ham, and the stage of groundwater extraction was 58.56%. The state was categorized as Safe.
+
+In 2023, the state of Karnataka, India received 319.77 mm rainfall. Total groundwater recharge was 1888228.62 ham, groundwater extraction was 1105726.18 ham, and the stage of groundwater extraction was 58.56%. The state was categorized as Safe.
+
+In 2019, the state of Kerala, India received 319.77 mm rainfall. Total groundwater recharge was 565418.32 ham, groundwater extraction was 264590.47 ham, and the stage of groundwater extraction was 46.8%. The state was categorized as Safe.
+
+In 2020, the state of Kerala, India received 324.0 mm rainfall. Total groundwater recharge was 571072.5 ham, groundwater extraction was 267236.37 ham, and the stage of groundwater extraction was 46.8%. The state was categorized as Safe.
+
+In 2021, the state of Kerala, India received 324.0 mm rainfall. Total groundwater recharge was 576726.69 ham, groundwater extraction was 269882.28 ham, and the stage of groundwater extraction was 46.8%. The state was categorized as Safe.
+
+In 2022, the state of Kerala, India received 324.0 mm rainfall. Total groundwater recharge was 582380.87 ham, groundwater extraction was 272528.18 ham, and the stage of groundwater extraction was 46.8%. The state was categorized as Safe.
+
+In 2023, the state of Kerala, India received 324.0 mm rainfall. Total groundwater recharge was 588035.05 ham, groundwater extraction was 275174.09 ham, and the stage of groundwater extraction was 46.8%. The state was categorized as Safe.
+
+In 2019, the state of Ladakh, India received 324.0 mm rainfall. Total groundwater recharge was 11788.4 ham, groundwater extraction was 1898.73 ham, and the stage of groundwater extraction was 16.11%. The state was categorized as Safe.
+
+In 2020, the state of Ladakh, India received 324.0 mm rainfall. Total groundwater recharge was 11906.28 ham, groundwater extraction was 1917.72 ham, and the stage of groundwater extraction was 16.11%. The state was categorized as Safe.
+
+In 2021, the state of Ladakh, India received 341.0 mm rainfall. Total groundwater recharge was 12024.17 ham, groundwater extraction was 1936.7 ham, and the stage of groundwater extraction was 16.11%. The state was categorized as Safe.
+
+In 2022, the state of Ladakh, India received 341.0 mm rainfall. Total groundwater recharge was 12142.05 ham, groundwater extraction was 1955.69 ham, and the stage of groundwater extraction was 16.11%. The state was categorized as Safe.
+
+In 2023, the state of Ladakh, India received 341.0 mm rainfall. Total groundwater recharge was 12259.94 ham, groundwater extraction was 1974.68 ham, and the stage of groundwater extraction was 16.11%. The state was categorized as Safe.
+
+In 2019, the state of Lakshdweep, India received 341.0 mm rainfall. Total groundwater recharge was 1324.48 ham, groundwater extraction was 292.03 ham, and the stage of groundwater extraction was 22.05%. The state was categorized as Safe.
+
+In 2020, the state of Lakshdweep, India received 341.0 mm rainfall. Total groundwater recharge was 1337.72 ham, groundwater extraction was 294.95 ham, and the stage of groundwater extraction was 22.05%. The state was categorized as Safe.
+
+In 2021, the state of Lakshdweep, India received 341.0 mm rainfall. Total groundwater recharge was 1350.97 ham, groundwater extraction was 297.87 ham, and the stage of groundwater extraction was 22.05%. The state was categorized as Safe.
+
+In 2022, the state of Lakshdweep, India received 324.0 mm rainfall. Total groundwater recharge was 1364.21 ham, groundwater extraction was 300.79 ham, and the stage of groundwater extraction was 22.05%. The state was categorized as Safe.
+
+In 2023, the state of Lakshdweep, India received 324.0 mm rainfall. Total groundwater recharge was 1377.46 ham, groundwater extraction was 303.71 ham, and the stage of groundwater extraction was 22.05%. The state was categorized as Safe.
+
+In 2019, the state of Madhya Pradesh, India received 324.0 mm rainfall. Total groundwater recharge was 3616133.15 ham, groundwater extraction was 1896752.85 ham, and the stage of groundwater extraction was 52.45%. The state was categorized as Safe.
+
+In 2020, the state of Madhya Pradesh, India received 324.0 mm rainfall. Total groundwater recharge was 3652294.48 ham, groundwater extraction was 1915720.38 ham, and the stage of groundwater extraction was 52.45%. The state was categorized as Safe.
+
+In 2021, the state of Madhya Pradesh, India received 324.0 mm rainfall. Total groundwater recharge was 3688455.81 ham, groundwater extraction was 1934687.91 ham, and the stage of groundwater extraction was 52.45%. The state was categorized as Safe.
+
+In 2022, the state of Madhya Pradesh, India received 324.0 mm rainfall. Total groundwater recharge was 3724617.14 ham, groundwater extraction was 1953655.44 ham, and the stage of groundwater extraction was 52.45%. The state was categorized as Safe.
+
+In 2023, the state of Madhya Pradesh, India received 213.0 mm rainfall. Total groundwater recharge was 3760778.48 ham, groundwater extraction was 1972622.96 ham, and the stage of groundwater extraction was 52.45%. The state was categorized as Safe.
+
+In 2019, the state of Maharashtra, India received 213.0 mm rainfall. Total groundwater recharge was 3206806.25 ham, groundwater extraction was 1663438.97 ham, and the stage of groundwater extraction was 51.87%. The state was categorized as Safe.
+
+In 2020, the state of Maharashtra, India received 213.0 mm rainfall. Total groundwater recharge was 3238874.31 ham, groundwater extraction was 1680073.36 ham, and the stage of groundwater extraction was 51.87%. The state was categorized as Safe.
+
+In 2021, the state of Maharashtra, India received 213.0 mm rainfall. Total groundwater recharge was 3270942.38 ham, groundwater extraction was 1696707.75 ham, and the stage of groundwater extraction was 51.87%. The state was categorized as Safe.
+
+In 2022, the state of Maharashtra, India received 213.0 mm rainfall. Total groundwater recharge was 3303010.44 ham, groundwater extraction was 1713342.14 ham, and the stage of groundwater extraction was 51.87%. The state was categorized as Safe.
+
+In 2023, the state of Maharashtra, India received 213.0 mm rainfall. Total groundwater recharge was 3335078.5 ham, groundwater extraction was 1729976.53 ham, and the stage of groundwater extraction was 51.87%. The state was categorized as Safe.
+
+In 2019, the state of Manipur, India received 341.0 mm rainfall. Total groundwater recharge was 51440.49 ham, groundwater extraction was 2368.23 ham, and the stage of groundwater extraction was 4.6%. The state was categorized as Safe.
+
+In 2020, the state of Manipur, India received 341.0 mm rainfall. Total groundwater recharge was 51954.89 ham, groundwater extraction was 2391.91 ham, and the stage of groundwater extraction was 4.6%. The state was categorized as Safe.
+
+In 2021, the state of Manipur, India received 341.0 mm rainfall. Total groundwater recharge was 52469.3 ham, groundwater extraction was 2415.59 ham, and the stage of groundwater extraction was 4.6%. The state was categorized as Safe.
+
+In 2022, the state of Manipur, India received 341.0 mm rainfall. Total groundwater recharge was 52983.7 ham, groundwater extraction was 2439.28 ham, and the stage of groundwater extraction was 4.6%. The state was categorized as Safe.
+
+In 2023, the state of Manipur, India received 341.0 mm rainfall. Total groundwater recharge was 53498.11 ham, groundwater extraction was 2462.96 ham, and the stage of groundwater extraction was 4.6%. The state was categorized as Safe.
+
+In 2019, the state of Meghalaya, India received 341.0 mm rainfall. Total groundwater recharge was 203828.77 ham, groundwater extraction was 7669.97 ham, and the stage of groundwater extraction was 3.76%. The state was categorized as Safe.
+
+In 2020, the state of Meghalaya, India received 401.6 mm rainfall. Total groundwater recharge was 205867.06 ham, groundwater extraction was 7746.67 ham, and the stage of groundwater extraction was 3.76%. The state was categorized as Safe.
+
+In 2021, the state of Meghalaya, India received 401.6 mm rainfall. Total groundwater recharge was 207905.35 ham, groundwater extraction was 7823.37 ham, and the stage of groundwater extraction was 3.76%. The state was categorized as Safe.
+
+In 2022, the state of Meghalaya, India received 401.6 mm rainfall. Total groundwater recharge was 209943.63 ham, groundwater extraction was 7900.07 ham, and the stage of groundwater extraction was 3.76%. The state was categorized as Safe.
+
+In 2023, the state of Meghalaya, India received 401.6 mm rainfall. Total groundwater recharge was 211981.92 ham, groundwater extraction was 7976.77 ham, and the stage of groundwater extraction was 3.76%. The state was categorized as Safe.
+
+In 2019, the state of Mizoram, India received 401.6 mm rainfall. Total groundwater recharge was 22201.17 ham, groundwater extraction was 762.17 ham, and the stage of groundwater extraction was 3.43%. The state was categorized as Safe.
+
+In 2020, the state of Mizoram, India received 401.6 mm rainfall. Total groundwater recharge was 22423.18 ham, groundwater extraction was 769.79 ham, and the stage of groundwater extraction was 3.43%. The state was categorized as Safe.
+
+In 2021, the state of Mizoram, India received 773.87 mm rainfall. Total groundwater recharge was 22645.19 ham, groundwater extraction was 777.41 ham, and the stage of groundwater extraction was 3.43%. The state was categorized as Safe.
+
+In 2022, the state of Mizoram, India received 773.87 mm rainfall. Total groundwater recharge was 22867.21 ham, groundwater extraction was 785.04 ham, and the stage of groundwater extraction was 3.43%. The state was categorized as Safe.
+
+In 2023, the state of Mizoram, India received 773.87 mm rainfall. Total groundwater recharge was 23089.22 ham, groundwater extraction was 792.66 ham, and the stage of groundwater extraction was 3.43%. The state was categorized as Safe.
+
+In 2019, the state of Nagaland, India received 773.87 mm rainfall. Total groundwater recharge was 216653.51 ham, groundwater extraction was 2023.18 ham, and the stage of groundwater extraction was 0.93%. The state was categorized as Safe.
+
+In 2020, the state of Nagaland, India received 773.87 mm rainfall. Total groundwater recharge was 218820.05 ham, groundwater extraction was 2043.41 ham, and the stage of groundwater extraction was 0.93%. The state was categorized as Safe.
+
+In 2021, the state of Nagaland, India received 773.87 mm rainfall. Total groundwater recharge was 220986.58 ham, groundwater extraction was 2063.64 ham, and the stage of groundwater extraction was 0.93%. The state was categorized as Safe.
+
+In 2022, the state of Nagaland, India received 508.4 mm rainfall. Total groundwater recharge was 223153.12 ham, groundwater extraction was 2083.88 ham, and the stage of groundwater extraction was 0.93%. The state was categorized as Safe.
+
+In 2023, the state of Nagaland, India received 508.4 mm rainfall. Total groundwater recharge was 225319.65 ham, groundwater extraction was 2104.11 ham, and the stage of groundwater extraction was 0.93%. The state was categorized as Safe.
+
+In 2019, the state of Odisha, India received 508.4 mm rainfall. Total groundwater recharge was 1708390.05 ham, groundwater extraction was 685892.22 ham, and the stage of groundwater extraction was 40.15%. The state was categorized as Safe.
+
+In 2020, the state of Odisha, India received 508.4 mm rainfall. Total groundwater recharge was 1725473.95 ham, groundwater extraction was 692751.14 ham, and the stage of groundwater extraction was 40.15%. The state was categorized as Safe.
+
+In 2021, the state of Odisha, India received 508.4 mm rainfall. Total groundwater recharge was 1742557.85 ham, groundwater extraction was 699610.06 ham, and the stage of groundwater extraction was 40.15%. The state was categorized as Safe.
+
+In 2022, the state of Odisha, India received 508.4 mm rainfall. Total groundwater recharge was 1759641.75 ham, groundwater extraction was 706468.99 ham, and the stage of groundwater extraction was 40.15%. The state was categorized as Safe.
+
+In 2023, the state of Odisha, India received 505.09 mm rainfall. Total groundwater recharge was 1776725.65 ham, groundwater extraction was 713327.91 ham, and the stage of groundwater extraction was 40.15%. The state was categorized as Safe.
+
+In 2019, the state of Puducherry, India received 505.09 mm rainfall. Total groundwater recharge was 22333.93 ham, groundwater extraction was 14927.75 ham, and the stage of groundwater extraction was 66.84%. The state was categorized as Safe.
+
+In 2020, the state of Puducherry, India received 505.09 mm rainfall. Total groundwater recharge was 22557.27 ham, groundwater extraction was 15077.03 ham, and the stage of groundwater extraction was 66.84%. The state was categorized as Safe.
+
+In 2021, the state of Puducherry, India received 505.09 mm rainfall. Total groundwater recharge was 22780.61 ham, groundwater extraction was 15226.31 ham, and the stage of groundwater extraction was 66.84%. The state was categorized as Safe.
+
+In 2022, the state of Puducherry, India received 505.09 mm rainfall. Total groundwater recharge was 23003.95 ham, groundwater extraction was 15375.58 ham, and the stage of groundwater extraction was 66.84%. The state was categorized as Safe.
+
+In 2023, the state of Puducherry, India received 505.09 mm rainfall. Total groundwater recharge was 23227.29 ham, groundwater extraction was 15524.86 ham, and the stage of groundwater extraction was 66.84%. The state was categorized as Safe.
+
+In 2019, the state of Punjab, India received 523.07 mm rainfall. Total groundwater recharge was 2279654.3 ham, groundwater extraction was 3385469.05 ham, and the stage of groundwater extraction was 148.51%. The state was categorized as Over Exploited.
+
+In 2020, the state of Punjab, India received 523.07 mm rainfall. Total groundwater recharge was 2302450.84 ham, groundwater extraction was 3419323.74 ham, and the stage of groundwater extraction was 148.51%. The state was categorized as Over Exploited.
+
+In 2021, the state of Punjab, India received 523.07 mm rainfall. Total groundwater recharge was 2325247.39 ham, groundwater extraction was 3453178.43 ham, and the stage of groundwater extraction was 148.51%. The state was categorized as Over Exploited.
+
+In 2022, the state of Punjab, India received 523.07 mm rainfall. Total groundwater recharge was 2348043.93 ham, groundwater extraction was 3487033.12 ham, and the stage of groundwater extraction was 148.51%. The state was categorized as Over Exploited.
+
+In 2023, the state of Punjab, India received 523.07 mm rainfall. Total groundwater recharge was 2370840.47 ham, groundwater extraction was 3520887.81 ham, and the stage of groundwater extraction was 148.51%. The state was categorized as Over Exploited.
+
+In 2019, the state of Rajasthan, India received 523.07 mm rainfall. Total groundwater recharge was 1224416.4 ham, groundwater extraction was 1663472.32 ham, and the stage of groundwater extraction was 135.86%. The state was categorized as Over Exploited.
+
+In 2020, the state of Rajasthan, India received 518.31 mm rainfall. Total groundwater recharge was 1236660.56 ham, groundwater extraction was 1680107.04 ham, and the stage of groundwater extraction was 135.86%. The state was categorized as Over Exploited.
+
+In 2021, the state of Rajasthan, India received 518.31 mm rainfall. Total groundwater recharge was 1248904.73 ham, groundwater extraction was 1696741.77 ham, and the stage of groundwater extraction was 135.86%. The state was categorized as Over Exploited.
+
+In 2022, the state of Rajasthan, India received 518.31 mm rainfall. Total groundwater recharge was 1261148.89 ham, groundwater extraction was 1713376.49 ham, and the stage of groundwater extraction was 135.86%. The state was categorized as Over Exploited.
+
+In 2023, the state of Rajasthan, India received 518.31 mm rainfall. Total groundwater recharge was 1273393.06 ham, groundwater extraction was 1730011.21 ham, and the stage of groundwater extraction was 135.86%. The state was categorized as Over Exploited.
+
+In 2019, the state of Sikkim, India received 518.31 mm rainfall. Total groundwater recharge was 96050.12 ham, groundwater extraction was 743.11 ham, and the stage of groundwater extraction was 0.77%. The state was categorized as Safe.
+
+In 2020, the state of Sikkim, India received 518.31 mm rainfall. Total groundwater recharge was 97010.62 ham, groundwater extraction was 750.54 ham, and the stage of groundwater extraction was 0.77%. The state was categorized as Safe.
+
+In 2021, the state of Sikkim, India received 523.07 mm rainfall. Total groundwater recharge was 97971.12 ham, groundwater extraction was 757.97 ham, and the stage of groundwater extraction was 0.77%. The state was categorized as Safe.
+
+In 2022, the state of Sikkim, India received 523.07 mm rainfall. Total groundwater recharge was 98931.62 ham, groundwater extraction was 765.4 ham, and the stage of groundwater extraction was 0.77%. The state was categorized as Safe.
+
+In 2023, the state of Sikkim, India received 523.07 mm rainfall. Total groundwater recharge was 99892.12 ham, groundwater extraction was 772.83 ham, and the stage of groundwater extraction was 0.77%. The state was categorized as Safe.
+
+In 2019, the state of Tamil Nadu, India received 523.07 mm rainfall. Total groundwater recharge was 1959078.96 ham, groundwater extraction was 1466950.98 ham, and the stage of groundwater extraction was 74.88%. The state was categorized as Semi Critical.
+
+In 2020, the state of Tamil Nadu, India received 523.07 mm rainfall. Total groundwater recharge was 1978669.75 ham, groundwater extraction was 1481620.49 ham, and the stage of groundwater extraction was 74.88%. The state was categorized as Semi Critical.
+
+In 2021, the state of Tamil Nadu, India received 523.07 mm rainfall. Total groundwater recharge was 1998260.54 ham, groundwater extraction was 1496290.0 ham, and the stage of groundwater extraction was 74.88%. The state was categorized as Semi Critical.
+
+In 2022, the state of Tamil Nadu, India received 394.56 mm rainfall. Total groundwater recharge was 2017851.33 ham, groundwater extraction was 1510959.51 ham, and the stage of groundwater extraction was 74.88%. The state was categorized as Semi Critical.
+
+In 2023, the state of Tamil Nadu, India received 394.56 mm rainfall. Total groundwater recharge was 2037442.12 ham, groundwater extraction was 1525629.02 ham, and the stage of groundwater extraction was 74.88%. The state was categorized as Semi Critical.
+
+In 2019, the state of Telangana, India received 394.56 mm rainfall. Total groundwater recharge was 1662752.58 ham, groundwater extraction was 801199.87 ham, and the stage of groundwater extraction was 48.19%. The state was categorized as Safe.
+
+In 2020, the state of Telangana, India received 394.56 mm rainfall. Total groundwater recharge was 1679380.11 ham, groundwater extraction was 809211.87 ham, and the stage of groundwater extraction was 48.19%. The state was categorized as Safe.
+
+In 2021, the state of Telangana, India received 394.56 mm rainfall. Total groundwater recharge was 1696007.63 ham, groundwater extraction was 817223.87 ham, and the stage of groundwater extraction was 48.19%. The state was categorized as Safe.
+
+In 2022, the state of Telangana, India received 394.56 mm rainfall. Total groundwater recharge was 1712635.16 ham, groundwater extraction was 825235.87 ham, and the stage of groundwater extraction was 48.19%. The state was categorized as Safe.
+
+In 2023, the state of Telangana, India received 523.07 mm rainfall. Total groundwater recharge was 1729262.68 ham, groundwater extraction was 833247.86 ham, and the stage of groundwater extraction was 48.19%. The state was categorized as Safe.
+
+In 2019, the state of Tripura, India received 523.07 mm rainfall. Total groundwater recharge was 146949.79 ham, groundwater extraction was 9881.34 ham, and the stage of groundwater extraction was 6.72%. The state was categorized as Safe.
+
+In 2020, the state of Tripura, India received 523.07 mm rainfall. Total groundwater recharge was 148419.29 ham, groundwater extraction was 9980.15 ham, and the stage of groundwater extraction was 6.72%. The state was categorized as Safe.
+
+In 2021, the state of Tripura, India received 523.07 mm rainfall. Total groundwater recharge was 149888.79 ham, groundwater extraction was 510078.97 ham, and the stage of groundwater extraction was 340.3%. The state was categorized as Over-Exploited.
+
+In 2022, the state of Tripura, India received 523.07 mm rainfall. Total groundwater recharge was 151358.28 ham, groundwater extraction was 510078.97 ham, and the stage of groundwater extraction was 337.0%. The state was categorized as Over-Exploited.
+
+In 2023, the state of Tripura, India received 523.07 mm rainfall. Total groundwater recharge was 152827.78 ham, groundwater extraction was 510078.97 ham, and the stage of groundwater extraction was 333.76%. The state was categorized as Over-Exploited.
+
+In 2019, the state of Uttar Pradesh, India received 340.47 mm rainfall. Total groundwater recharge was 7219940.31 ham, groundwater extraction was 4603205.95 ham, and the stage of groundwater extraction was 63.76%. The state was categorized as Safe.
+
+In 2020, the state of Uttar Pradesh, India received 340.47 mm rainfall. Total groundwater recharge was 7292139.71 ham, groundwater extraction was 4649238.01 ham, and the stage of groundwater extraction was 63.76%. The state was categorized as Safe.
+
+In 2021, the state of Uttar Pradesh, India received 340.47 mm rainfall. Total groundwater recharge was 7364339.12 ham, groundwater extraction was 4695270.07 ham, and the stage of groundwater extraction was 63.76%. The state was categorized as Safe.
+
+In 2022, the state of Uttar Pradesh, India received 340.47 mm rainfall. Total groundwater recharge was 7436538.52 ham, groundwater extraction was 4741302.13 ham, and the stage of groundwater extraction was 63.76%. The state was categorized as Safe.
+
+In 2023, the state of Uttar Pradesh, India received 340.47 mm rainfall. Total groundwater recharge was 7508737.92 ham, groundwater extraction was 4787334.19 ham, and the stage of groundwater extraction was 63.76%. The state was categorized as Safe.
+
+In 2019, the state of Uttarakhand, India received 340.47 mm rainfall. Total groundwater recharge was 202376.44 ham, groundwater extraction was 86710.59 ham, and the stage of groundwater extraction was 42.85%. The state was categorized as Safe.
+
+In 2020, the state of Uttarakhand, India received 518.31 mm rainfall. Total groundwater recharge was 204400.2 ham, groundwater extraction was 87577.7 ham, and the stage of groundwater extraction was 42.85%. The state was categorized as Safe.
+
+In 2021, the state of Uttarakhand, India received 518.31 mm rainfall. Total groundwater recharge was 206423.97 ham, groundwater extraction was 88444.8 ham, and the stage of groundwater extraction was 42.85%. The state was categorized as Safe.
+
+In 2022, the state of Uttarakhand, India received 518.31 mm rainfall. Total groundwater recharge was 208447.73 ham, groundwater extraction was 89311.91 ham, and the stage of groundwater extraction was 42.85%. The state was categorized as Safe.
+
+In 2023, the state of Uttarakhand, India received 518.31 mm rainfall. Total groundwater recharge was 210471.5 ham, groundwater extraction was 90179.01 ham, and the stage of groundwater extraction was 42.85%. The state was categorized as Safe.
+
+In 2019, the state of West Bengal, India received 518.31 mm rainfall. Total groundwater recharge was 2933214.11 ham, groundwater extraction was 1184428.51 ham, and the stage of groundwater extraction was 40.38%. The state was categorized as Safe.
+
+In 2020, the state of West Bengal, India received 518.31 mm rainfall. Total groundwater recharge was 2962546.25 ham, groundwater extraction was 1196272.8 ham, and the stage of groundwater extraction was 40.38%. The state was categorized as Safe.
+
+In 2021, the state of West Bengal, India received 624.24 mm rainfall. Total groundwater recharge was 2991878.39 ham, groundwater extraction was 1208117.08 ham, and the stage of groundwater extraction was 40.38%. The state was categorized as Safe.
+
+In 2022, the state of West Bengal, India received 624.24 mm rainfall. Total groundwater recharge was 3021210.53 ham, groundwater extraction was 1219961.37 ham, and the stage of groundwater extraction was 40.38%. The state was categorized as Safe.
+
+In 2023, the state of West Bengal, India received 624.24 mm rainfall. Total groundwater recharge was 3050542.67 ham, groundwater extraction was 1231805.65 ham, and the stage of groundwater extraction was 40.38%. The state was categorized as Safe.
+
