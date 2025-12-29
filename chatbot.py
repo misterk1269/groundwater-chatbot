@@ -85,10 +85,17 @@ def normalize_category(x):
 state_df["category"] = state_df["category"].apply(normalize_category)
 block_df["category"] = block_df["category"].apply(normalize_category)
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDu4rYdLSTYh6aerSUeVY60YPaWm6WbgOg"
-genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
+# genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
+API_KEY = os.getenv("GOOGLE_API_KEY")
+
+if not API_KEY:
+    raise ValueError("GOOGLE_API_KEY not found in environment variables")
+
+genai.configure(api_key=API_KEY)
 
 llm = genai.GenerativeModel("models/gemini-2.5-flash")
+
+# llm = genai.GenerativeModel("models/gemini-2.5-flash")
 
 # def ask_bot(question, k=5):
 #     q_vec = embed_model.encode([question])
