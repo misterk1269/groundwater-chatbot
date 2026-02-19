@@ -95,25 +95,6 @@ genai.configure(api_key=API_KEY)
 
 llm = genai.GenerativeModel("models/gemini-2.5-flash")
 
-# llm = genai.GenerativeModel("models/gemini-2.5-flash")
-
-# def ask_bot(question, k=5):
-#     q_vec = embed_model.encode([question])
-#     D, I = index.search(np.array(q_vec), k=k)
-
-#     context = "\n".join([documents[i] for i in I[0]])
-
-#     prompt = f"""
-# You are a groundwater expert.
-# Answer strictly from the context below.
-
-# Context:
-# {context}
-
-# Question:
-# {question}
-# """
-#     return llm.generate_content(prompt).text
 def ask_bot(question, k=5):
     try:
         q_vec = embed_model.encode([question])
@@ -239,7 +220,7 @@ def chatbot(question):
     if any(w in q for w in ["why", "impact", "concern", "explain", "effect"]):
         return ask_bot(question)
 
-    # 2️⃣ Year (optional)
+    # 2️⃣ Year 
     year = None
     for y in [2019, 2020, 2021, 2022]:
         if str(y) in q:
@@ -281,33 +262,13 @@ def chatbot(question):
 
         return f"{category.title()} states{f' in {year}' if year else ''}: " + ", ".join(sorted(df["state"].unique()))
 
-    # 6️⃣ DEFAULT → old behaviour (RAG)
     return ask_bot(question)
 
 # print(chatbot("how many over-exploited state in 2019"))
-
-# print(chatbot("What is the groundwater condition in Bihar in 2019?"))
-# print(chatbot("bihar 2019"))
-
-
-
-# print(chatbot("what is the groundwater condition in bihar in 2020?"))
-# print(chatbot("Which block is over exploited in 2019?"))
+# print(chatbot("What is the groundwater condition in Bihar in 2019?")))
 # print(chatbot("Which state is over exploited in 2019"))
-
 # print(chatbot("In 2019, what was the groundwater status of Bawani Khera block in Haryana?"))
-
 # print(chatbot("In 2019, what was the groundwater status of hoskote block give me full detail?"))
-# print(chatbot("Tell me groundwater details of Bawani Khera, Haryana?"))
-# print(chatbot("Tell me groundwater details of Bawani Khera, Haryana for 2020?"))
-# print(chatbot("How many states are safe in 2020?"))
-# print(chatbot("Why is over-exploitation of groundwater a concern?"))
-# print(chatbot("Which blocks is semi critical in 2019"))
-
-
-# print(chatbot("asdjkhaskdh"))
-# print(chatbot(""))
-# print(chatbot("How many block are semi critical in 2020?"))
 # print(chatbot("Which state are semi critical in 2021?"))
 
 def chatbot_api(query):
