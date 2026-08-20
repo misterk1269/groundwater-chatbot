@@ -24,7 +24,7 @@ This project answers questions about groundwater conditions across Indian states
 - [FAISS](https://github.com/facebookresearch/faiss) — vector similarity search
 - [Google Generative AI](https://ai.google.dev/) (`gemini-2.5-flash`) — LLM responses
 - **Pandas / NumPy** — data processing
-- Flask (or similar, via `app.py`) — web serving
+- FastAPI (via `app.py`) — web serving
 
 ## Project Structure
 
