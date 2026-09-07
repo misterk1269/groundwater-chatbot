@@ -1,5 +1,5 @@
 import streamlit as st
-import requests
+from chatbot import chatbot_api
 
 # ===============================
 # Page Config
@@ -9,7 +9,6 @@ st.set_page_config(
     page_icon="💧",
     layout="centered"
 )
-
 st.title("💧 Groundwater AI Chatbot")
 st.caption("INGRES-based Hybrid AI System (CSV + FAISS + LLM)")
 
@@ -32,30 +31,21 @@ SUGGESTIONS = [
 
 st.markdown("### 🔍 Try asking:")
 cols = st.columns(len(SUGGESTIONS))
-
 for i, suggestion in enumerate(SUGGESTIONS):
     if cols[i].button(suggestion):
         # Add user message
         st.session_state.messages.append(
             {"role": "user", "content": suggestion}
         )
-
-        # Call backend
+        # Call chatbot directly (no backend server needed)
         try:
-            response = requests.post(
-                "http://127.0.0.1:8000/chat",
-                json={"query": suggestion},
-                timeout=60
-            )
-            answer = response.json().get("answer", "No response received.")
+            answer = chatbot_api(suggestion)
         except Exception as e:
-            answer = f"⚠️ Backend error: {e}"
-
+            answer = f"⚠️ Error: {e}"
         # Add assistant message
         st.session_state.messages.append(
             {"role": "assistant", "content": answer}
         )
-
         st.rerun()
 
 # ===============================
@@ -69,7 +59,6 @@ for msg in st.session_state.messages:
 # Chat Input (ChatGPT-style)
 # ===============================
 user_input = st.chat_input("Ask anything about groundwater...")
-
 if user_input:
     # User message
     st.session_state.messages.append(
@@ -78,16 +67,11 @@ if user_input:
     with st.chat_message("user"):
         st.markdown(user_input)
 
-    # Backend call
+    # Call chatbot directly (no backend server needed)
     try:
-        response = requests.post(
-            "http://127.0.0.1:8000/chat",
-            json={"query": user_input},
-            timeout=60
-        )
-        answer = response.json().get("answer", "No response received.")
+        answer = chatbot_api(user_input)
     except Exception as e:
-        answer = f"⚠️ Backend error: {e}"
+        answer = f"⚠️ Error: {e}"
 
     # Assistant message
     st.session_state.messages.append(
