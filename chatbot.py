@@ -1,4 +1,5 @@
 import os
+import re
 import numpy as np
 import pandas as pd
 import faiss
@@ -67,6 +68,9 @@ def normalize_category(x):
 
 state_df["category"] = state_df["category"].apply(normalize_category)
 block_df["category"] = block_df["category"].apply(normalize_category)
+
+state_df["state"] = state_df["state"].astype(str).str.strip().str.title()
+block_df["state"] = block_df["state"].astype(str).str.strip().str.title()
 
 API_KEY = os.getenv("GOOGLE_API_KEY")
 if not API_KEY:
@@ -199,6 +203,51 @@ def answer_from_csv(question):
     return ", ".join(sorted(df["state"].unique()))
 
 
+CATEGORY_SYNONYMS = [
+    ("over exploited", ["over exploited", "over-exploited", "overexploited", "over exploitation"]),
+    ("semi critical", ["semi critical", "semi-critical", "semicritical"]),
+    ("critical", ["critical"]),
+    ("safe", ["safe"]),
+]
+
+# Built once from the actual data, so this stays correct even if the
+# CSVs later gain new states/blocks or years.
+KNOWN_STATES = sorted(
+    set(state_df["state"].dropna().astype(str)) | set(block_df["state"].dropna().astype(str)),
+    key=len, reverse=True
+)
+KNOWN_BLOCKS = sorted(set(block_df["block"].dropna().astype(str)), key=len, reverse=True)
+
+
+def extract_year(text):
+    match = re.search(r"\b(19|20)\d{2}\b", text)
+    return int(match.group()) if match else None
+
+
+def extract_category(text):
+    t = text.lower()
+    for canon, variants in CATEGORY_SYNONYMS:
+        if any(v in t for v in variants):
+            return canon
+    return None
+
+
+def extract_state_name(text):
+    t = text.lower()
+    for s in KNOWN_STATES:
+        if s.lower() in t:
+            return s
+    return None
+
+
+def extract_block_name(text):
+    t = text.lower()
+    for b in KNOWN_BLOCKS:
+        if b.lower() in t:
+            return b
+    return None
+
+
 def chatbot(question, chat_history=None):
     q = question.lower().strip()
 
@@ -206,23 +255,10 @@ def chatbot(question, chat_history=None):
     if any(w in q for w in ["why", "impact", "concern", "explain", "effect"]):
         return ask_bot(question, chat_history=chat_history)
 
-    # Year
-    year = None
-    for y in [2019, 2020, 2021, 2022, 2023, 2024]:
-        if str(y) in q:
-            year = y
-            break
-
-    # Category
-    category = None
-    if "over" in q and "exploit" in q:
-        category = "over exploited"
-    elif "semi" in q:
-        category = "semi critical"
-    elif "critical" in q:
-        category = "critical"
-    elif "safe" in q:
-        category = "safe"
+    year = extract_year(question)
+    category = extract_category(question)
+    state_name = extract_state_name(question)
+    block_name = extract_block_name(question)
 
     # Carry forward year/category from the last user turn if this one
     # is a short follow-up ("what about semi critical?", "and in 2021?")
@@ -230,40 +266,66 @@ def chatbot(question, chat_history=None):
         for turn in reversed(chat_history):
             if turn["role"] != "user":
                 continue
-            prev_q = turn["content"].lower()
+            prev_q = turn["content"]
             if year is None:
-                for y in [2019, 2020, 2021, 2022, 2023, 2024]:
-                    if str(y) in prev_q:
-                        year = y
-                        break
+                year = extract_year(prev_q)
             if category is None:
-                if "over" in prev_q and "exploit" in prev_q:
-                    category = "over exploited"
-                elif "semi" in prev_q:
-                    category = "semi critical"
-                elif "critical" in prev_q:
-                    category = "critical"
-                elif "safe" in prev_q:
-                    category = "safe"
+                category = extract_category(prev_q)
             if year is not None and category is not None:
                 break
 
-    # Block-level queries
-    if "block" in q and category:
+    # A specific block + a specific category -> direct yes/no with numbers
+    if block_name and category:
+        df = block_df[block_df["block"].str.lower() == block_name.lower()]
+        if year:
+            df = df[df["year"] == year]
+        if df.empty:
+            return f"No data found for {block_name}{f' in {year}' if year else ''}."
+        row = df.iloc[0]
+        if row["category"] == category:
+            return (f"Yes, {block_name} is classified as {category.title()}"
+                     f"{f' in {year}' if year else ''} "
+                     f"(stage of extraction: {round(row['stage_percent'], 2)}%).")
+        return (f"No, {block_name} is not {category.title()}"
+                 f"{f' in {year}' if year else ''} — "
+                 f"actual category: {row['category'].title()}.")
+
+    # A specific state + a specific category -> direct yes/no with numbers
+    if state_name and category:
+        df = state_df[state_df["state"].str.lower() == state_name.lower()]
+        if year:
+            df = df[df["year"] == year]
+        if df.empty:
+            return f"No data found for {state_name}{f' in {year}' if year else ''}."
+        row = df.iloc[0]
+        if row["category"] == category:
+            return (f"Yes, {state_name} is classified as {category.title()}"
+                     f"{f' in {year}' if year else ''} "
+                     f"(stage of extraction: {round(row['stage_percent'], 2)}%).")
+        return (f"No, {state_name} is not {category.title()}"
+                 f"{f' in {year}' if year else ''} — "
+                 f"actual category: {row['category'].title()}.")
+
+    # Block-level list/count queries (category present, question is about blocks)
+    if category and ("block" in q or block_name):
         df = block_df.copy()
         if year:
             df = df[df["year"] == year]
         df = df[df["category"] == category]
+        if df.empty:
+            return f"No blocks found matching {category.title()}{f' in {year}' if year else ''}."
         if "how many" in q:
             return f"Number of {category} blocks{f' in {year}' if year else ''}: {df['block'].nunique()}"
         return f"{category.title()} blocks{f' in {year}' if year else ''}: " + ", ".join(sorted(df["block"].unique()))
 
-    # State-level aggregation
-    if "state" in q and category:
+    # State-level list/count queries (category present, default when "block" isn't mentioned)
+    if category:
         df = state_df.copy()
         if year:
             df = df[df["year"] == year]
         df = df[df["category"] == category]
+        if df.empty:
+            return f"No states found matching {category.title()}{f' in {year}' if year else ''}."
         if "how many" in q:
             return f"Number of {category} states{f' in {year}' if year else ''}: {df['state'].nunique()}"
         return f"{category.title()} states{f' in {year}' if year else ''}: " + ", ".join(sorted(df["state"].unique()))
