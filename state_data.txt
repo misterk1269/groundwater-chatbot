@@ -38,16 +38,6 @@ In 2022, the state of Assam, India received 1239.21 mm rainfall. Total groundwat
 
 In 2023, the state of Assam, India received 1439.21 mm rainfall. Total groundwater recharge was 2813520.32 ham, groundwater extraction was 267865.95 ham, and the stage of groundwater extraction was 9.52%. The state was categorized as Safe.
 
-In 2019, the state of BIHAR, India received 1439.21 mm rainfall. Total groundwater recharge was 3247740.53 ham, groundwater extraction was 1323180.95 ham, and the stage of groundwater extraction was 40.74%. The state was categorized as Safe.
-
-In 2020, the state of BIHAR, India received 1439.21 mm rainfall. Total groundwater recharge was 3280880.74 ham, groundwater extraction was 1336682.79 ham, and the stage of groundwater extraction was 40.74%. The state was categorized as Safe.
-
-In 2021, the state of BIHAR, India received 1439.21 mm rainfall. Total groundwater recharge was 3314020.95 ham, groundwater extraction was 1350184.64 ham, and the stage of groundwater extraction was 40.74%. The state was categorized as Safe.
-
-In 2022, the state of BIHAR, India received 1439.21 mm rainfall. Total groundwater recharge was 3347161.16 ham, groundwater extraction was 1363686.49 ham, and the stage of groundwater extraction was 40.74%. The state was categorized as Safe.
-
-In 2023, the state of BIHAR, India received 1439.21 mm rainfall. Total groundwater recharge was 3380301.37 ham, groundwater extraction was 1377188.33 ham, and the stage of groundwater extraction was 40.74%. The state was categorized as Safe.
-
 In 2019, the state of Bihar, India received 1422.66 mm rainfall. Total groundwater recharge was 2805424.92 ham, groundwater extraction was 1301871.73 ham, and the stage of groundwater extraction was 46.41%. The state was categorized as Safe.
 
 In 2020, the state of Bihar, India received 422.66 mm rainfall. Total groundwater recharge was 2833479.17 ham, groundwater extraction was 1314890.45 ham, and the stage of groundwater extraction was 46.41%. The state was categorized as Safe.
@@ -57,16 +47,6 @@ In 2021, the state of Bihar, India received 422.66 mm rainfall. Total groundwate
 In 2022, the state of Bihar, India received 422.66 mm rainfall. Total groundwater recharge was 2889587.67 ham, groundwater extraction was 1340927.88 ham, and the stage of groundwater extraction was 46.41%. The state was categorized as Safe.
 
 In 2023, the state of Bihar, India received 422.66 mm rainfall. Total groundwater recharge was 2917641.92 ham, groundwater extraction was 1353946.6 ham, and the stage of groundwater extraction was 46.41%. The state was categorized as Safe.
-
-In 2019, the state of CHANDIGARH, India received 195.07 mm rainfall. Total groundwater recharge was 5100.87 ham, groundwater extraction was 3717.88 ham, and the stage of groundwater extraction was 72.89%. The state was categorized as Semi Critical.
-
-In 2020, the state of CHANDIGARH, India received 1195.07 mm rainfall. Total groundwater recharge was 5152.92 ham, groundwater extraction was 3755.82 ham, and the stage of groundwater extraction was 72.89%. The state was categorized as Semi Critical.
-
-In 2021, the state of CHANDIGARH, India received 1296.78 mm rainfall. Total groundwater recharge was 5204.97 ham, groundwater extraction was 3793.76 ham, and the stage of groundwater extraction was 72.89%. The state was categorized as Semi Critical.
-
-In 2022, the state of CHANDIGARH, India received 195.07 mm rainfall. Total groundwater recharge was 5257.02 ham, groundwater extraction was 3831.7 ham, and the stage of groundwater extraction was 72.89%. The state was categorized as Semi Critical.
-
-In 2023, the state of CHANDIGARH, India received 1234.09 mm rainfall. Total groundwater recharge was 5309.07 ham, groundwater extraction was 3869.64 ham, and the stage of groundwater extraction was 72.89%. The state was categorized as Semi Critical.
 
 In 2019, the state of Chandigarh, India received 1234.09 mm rainfall. Total groundwater recharge was 6375.6 ham, groundwater extraction was 4624.7 ham, and the stage of groundwater extraction was 72.54%. The state was categorized as Semi Critical.
 
