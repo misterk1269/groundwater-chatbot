@@ -76,14 +76,27 @@ genai.configure(api_key=API_KEY)
 llm = genai.GenerativeModel("models/gemini-2.5-flash")
 
 
-def ask_bot(question, k=5):
+def ask_bot(question, k=5, chat_history=None):
     try:
         q_vec = embed_model.encode([question])
         D, I = index.search(np.array(q_vec), k=k)
         context = "\n".join([documents[i] for i in I[0]])
+
+        history_text = ""
+        if chat_history:
+            recent = chat_history[-6:]  # last 3 user+assistant turns
+            history_text = "\n".join(
+                f"{turn['role'].capitalize()}: {turn['content']}" for turn in recent
+            )
+
         prompt = f"""
 You are a groundwater expert.
-Answer strictly from the context below.
+Answer strictly from the context below. Use the conversation history only
+to understand what the user is referring to (e.g. "what about X",
+"and in 2021?") — do not invent facts not present in the context.
+
+Conversation history:
+{history_text if history_text else "(none)"}
 
 Context:
 {context}
@@ -186,16 +199,16 @@ def answer_from_csv(question):
     return ", ".join(sorted(df["state"].unique()))
 
 
-def chatbot(question):
+def chatbot(question, chat_history=None):
     q = question.lower().strip()
 
-    # Conceptual questions -> Gemini + RAG
+    # Conceptual questions -> Gemini + RAG (with memory of past turns)
     if any(w in q for w in ["why", "impact", "concern", "explain", "effect"]):
-        return ask_bot(question)
+        return ask_bot(question, chat_history=chat_history)
 
     # Year
     year = None
-    for y in [2019, 2020, 2021, 2022]:
+    for y in [2019, 2020, 2021, 2022, 2023, 2024]:
         if str(y) in q:
             year = y
             break
@@ -210,6 +223,30 @@ def chatbot(question):
         category = "critical"
     elif "safe" in q:
         category = "safe"
+
+    # Carry forward year/category from the last user turn if this one
+    # is a short follow-up ("what about semi critical?", "and in 2021?")
+    if chat_history and (year is None or category is None):
+        for turn in reversed(chat_history):
+            if turn["role"] != "user":
+                continue
+            prev_q = turn["content"].lower()
+            if year is None:
+                for y in [2019, 2020, 2021, 2022, 2023, 2024]:
+                    if str(y) in prev_q:
+                        year = y
+                        break
+            if category is None:
+                if "over" in prev_q and "exploit" in prev_q:
+                    category = "over exploited"
+                elif "semi" in prev_q:
+                    category = "semi critical"
+                elif "critical" in prev_q:
+                    category = "critical"
+                elif "safe" in prev_q:
+                    category = "safe"
+            if year is not None and category is not None:
+                break
 
     # Block-level queries
     if "block" in q and category:
@@ -231,8 +268,8 @@ def chatbot(question):
             return f"Number of {category} states{f' in {year}' if year else ''}: {df['state'].nunique()}"
         return f"{category.title()} states{f' in {year}' if year else ''}: " + ", ".join(sorted(df["state"].unique()))
 
-    return ask_bot(question)
+    return ask_bot(question, chat_history=chat_history)
 
 
-def chatbot_api(query):
-    return chatbot(query)
+def chatbot_api(query, chat_history=None):
+    return chatbot(query, chat_history=chat_history)
