@@ -248,8 +248,29 @@ def extract_block_name(text):
     return None
 
 
+SMALL_TALK_REPLIES = {
+    "hi": "Hi! Ask me anything about groundwater data — rainfall, recharge, extraction, or category status for any state or block.",
+    "hii": "Hi! Ask me anything about groundwater data — rainfall, recharge, extraction, or category status for any state or block.",
+    "hello": "Hello! Ask me anything about groundwater data — rainfall, recharge, extraction, or category status for any state or block.",
+    "hey": "Hey! Ask me anything about groundwater data — rainfall, recharge, extraction, or category status for any state or block.",
+    "thanks": "You're welcome! Let me know if you have more groundwater questions.",
+    "thank you": "You're welcome! Let me know if you have more groundwater questions.",
+    "thankyou": "You're welcome! Let me know if you have more groundwater questions.",
+    "ok": "Alright! Let me know if you need anything else.",
+    "okay": "Alright! Let me know if you need anything else.",
+    "bye": "Bye! Come back anytime for groundwater data.",
+    "good": "Glad that helped! Anything else you'd like to check?",
+    "cool": "Glad that helped! Anything else you'd like to check?",
+}
+
+
 def chatbot(question, chat_history=None):
     q = question.lower().strip()
+    q_clean = re.sub(r"[^\w\s]", "", q).strip()
+
+    # Small talk (hi/hello/thanks/ok/bye) -> canned reply, skip data logic entirely
+    if q_clean in SMALL_TALK_REPLIES:
+        return SMALL_TALK_REPLIES[q_clean]
 
     # Conceptual questions -> Gemini + RAG (with memory of past turns)
     if any(w in q for w in ["why", "impact", "concern", "explain", "effect"]):
