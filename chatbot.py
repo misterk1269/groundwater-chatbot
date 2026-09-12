@@ -281,9 +281,12 @@ def chatbot(question, chat_history=None):
     state_name = extract_state_name(question)
     block_name = extract_block_name(question)
 
-    # Carry forward year/category from the last user turn if this one
-    # is a short follow-up ("what about semi critical?", "and in 2021?")
-    if chat_history and (year is None or category is None):
+    # Carry forward year/category from the last user turn ONLY when this
+    # question doesn't name its own state/block — naming a new entity is a
+    # strong signal this is a fresh, self-contained question (e.g. "give me
+    # data of Bihar for all years"), not a short follow-up like "name them"
+    # or "what about semi critical?".
+    if chat_history and not state_name and not block_name and (year is None or category is None):
         for turn in reversed(chat_history):
             if turn["role"] != "user":
                 continue
